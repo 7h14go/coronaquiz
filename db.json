@@ -5,26 +5,64 @@
     "questions": [
       {
         "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
+        "title": "Quanto tempo o corona vírus sobrevive no ar?",
         "description": "Essa é pra aquecer",
-        "answer": 2,
+        "answer": 1,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Até 30 minutos",
+          "Até 2 horas e 30 minutos",
+          "Até 1 hora",
+          "O virús não sobrevive no ar"
         ]
       },
       {
         "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "title": "De quanto em quanto tempo devemos trocar a mascara de pano?",
+        "description": "Aquecendo os motores",
+        "answer": 1,
+        "alternatives": [
+           "De uma em uma hora",
+           "De duas em duas hora",
+           "De três em três hora",
+           "De quatro em quatro hora"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "title": "Sobre a reprodução do vírus COVID-19 é correto afirmar que:",
+        "description": "Aquecendo os motores",
+        "answer": 2,
+        "alternatives": [
+           "O vírus não se reproduz nunca, a quantidade aspirada pelo individuo permanece com ele até o fim da infecção",
+           "O vírus se reproduz sozinho",
+           "O vírus não se reproduz sozinho, ele precisa de uma célula hospedeira para fazer isso e continuar a infecção",
+           "O vírus não se reproduz sozinho, somente em laboratório é possível realizar sua reprodução"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "title": "Qual é a concentração de álcool ideal para a desinfecção do corono vírus?",
+        "description": "Aquecendo os motores",
+        "answer": 2,
+        "alternatives": [
+           "30%",
+           "45%",
+           "70%",
+           "99%"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "title": "O corono vírus não é capas de entrar pela:",
+        "description": "Aquecendo os motores",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "Pele",
+           "Boca",
+           "Olhos",
+           "Nariz"
         ]
-      }
+      } 
     ],
     "external": [
       "https://aluraquiz-css.omariosouto.vercel.app/"
